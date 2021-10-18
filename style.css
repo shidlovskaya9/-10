@@ -67,7 +67,7 @@ blockquote {
 }
 
 header {
-  background: url(/лаб\ 1/img/1.jpg)
+  background: url(1.jpg)
   no-repeat center center fixed;
   background-size: cover;
   height: 480px;
@@ -167,7 +167,7 @@ footer a {
 }
 
 .about__img {
-  background: linear-gradient(to bottom, #ffcc33, hsl(15, 44%, 48%));
+  background: linear-gradient(to bottom, #53c4f8, hsl(209, 93%, 11%));
   transition: transform .2s linear;
 }
 
